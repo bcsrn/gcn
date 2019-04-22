@@ -19,3 +19,5 @@ Changes to dropout and hidden layers has been made
 
 Youtube link for GUI demo - https://youtu.be/evtCMLRrAUI
 
+According to the paper - https://arxiv.org/pdf/1609.02907.pdf - the baseline accuracy on the cora dataset is 81.5%
+
